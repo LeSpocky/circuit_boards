@@ -15401,7 +15401,7 @@ Source: www.kingbright.com</description>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817-B"/>
 <part name="IC2" library="n39" deviceset="TS2940" device="S" technology="CP50"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="025-030X050" value="470n"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="050-025X075" value="470n"/>
 <part name="C3" library="rcl" deviceset="CPOL-EU" device="E2.5-6" value="47u"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
